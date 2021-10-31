@@ -1,8 +1,13 @@
+html>
+  <head>
+    <title> Tugas Rekayasa Web</title>
+  </head>
+  <body>
+    <h4>HASIL PERTEMUAN 3</h4>
 NIM : 1922500116 <br>
 Nama : Mutia Amirah Rahim <br>
 Kelompok : SI5A <br>
-Hasil Pertemuan 3 Tentang Posting<br>
-
+</br>
 </ol>Cara membuat posting<br>
 <li>Login ke admin wordpress, Misalnya localhost/si5aa2122o</li>
 <li>Masukkan Username dan Password WordPress,</li>
@@ -47,3 +52,6 @@ Upload Media di halaman Web<br>
 
 Cara Menggunakan media dipos<br> 
 -> Ke pos tambah baru, klik tambah blok, pilih berkas, kemudian pilih pustaka media.<br> 
+<br>
+</body>
+</html>
